@@ -9,7 +9,7 @@
 export default {
     title: "hooooks",
     base: "/hooooks-doc",
-    publicPath: "/hooooks-doc",
+    publicPath: "/hooooks-doc/",
     exportStatic: {},
     extraBabelPlugins: [
         [
