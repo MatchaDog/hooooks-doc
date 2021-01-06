@@ -7,9 +7,10 @@
  */
 
 export default {
-    title:"hooooks",
-    base: "/hooks/dist",
-    publicPath: "/hooks/dist/",
+    title: "hooooks",
+    base: "/hooooks-doc",
+    publicPath: "/hooooks-doc",
+    exportStatic: {},
     extraBabelPlugins: [
         [
             "import",
