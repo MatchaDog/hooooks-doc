@@ -12,7 +12,7 @@ npm install @hupu/hooooks
 ### 使用
 
 ```javascript
-import { useDidMount } from "hooooks";
+import { useDidMount } from "@hupu/hooooks";
 
 const Demo = () => {
     useDidMount(()=>{
